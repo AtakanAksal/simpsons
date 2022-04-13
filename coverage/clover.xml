@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1649844338633" clover="3.2.0">
+  <project timestamp="1649844338634" name="All files">
+    <metrics statements="119" coveredstatements="83" conditionals="22" coveredconditionals="7" methods="50" coveredmethods="27" elements="191" coveredelements="117" complexity="0" loc="119" ncloc="119" packages="9" files="12" classes="12"/>
+    <package name="simpsons">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.js" path="C:\Users\Box\Desktop\Projects\simpsons\App.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="simpsons.assets">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="down-arrow.png" path="C:\Users\Box\Desktop\Projects\simpsons\assets\down-arrow.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="trash.png" path="C:\Users\Box\Desktop\Projects\simpsons\assets\trash.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="up-arrow.png" path="C:\Users\Box\Desktop\Projects\simpsons\assets\up-arrow.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="simpsons.src">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Main.js" path="C:\Users\Box\Desktop\Projects\simpsons\src\Main.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="simpsons.src.contexts">
+      <metrics statements="48" coveredstatements="33" conditionals="12" coveredconditionals="3" methods="16" coveredmethods="9"/>
+      <file name="SimpsonsContext.js" path="C:\Users\Box\Desktop\Projects\simpsons\src\contexts\SimpsonsContext.js">
+        <metrics statements="48" coveredstatements="33" conditionals="12" coveredconditionals="3" methods="16" coveredmethods="9"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="20" type="stmt"/>
+        <line num="11" count="20" type="stmt"/>
+        <line num="12" count="12" type="stmt"/>
+        <line num="15" count="20" type="stmt"/>
+        <line num="16" count="20" type="stmt"/>
+        <line num="20" count="20" type="stmt"/>
+        <line num="22" count="12" type="stmt"/>
+        <line num="23" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="7" type="stmt"/>
+        <line num="25" count="7" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="33" count="20" type="stmt"/>
+        <line num="34" count="20" type="stmt"/>
+        <line num="35" count="20" type="stmt"/>
+        <line num="38" count="20" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="44" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="57" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="58" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="67" count="20" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="75" count="20" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="83" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="84" count="1" type="stmt"/>
+        <line num="88" count="20" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="93" count="0" type="stmt"/>
+        <line num="96" count="20" type="stmt"/>
+        <line num="111" count="20" type="stmt"/>
+      </file>
+    </package>
+    <package name="simpsons.src.helpers">
+      <metrics statements="19" coveredstatements="11" conditionals="2" coveredconditionals="0" methods="10" coveredmethods="4"/>
+      <file name="connections.js" path="C:\Users\Box\Desktop\Projects\simpsons\src\helpers\connections.js">
+        <metrics statements="8" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="funtions.js" path="C:\Users\Box\Desktop\Projects\simpsons\src\helpers\funtions.js">
+        <metrics statements="11" coveredstatements="7" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="simpsons.src.views.detailScreen">
+      <metrics statements="11" coveredstatements="9" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="2"/>
+      <file name="DetailScreen.js" path="C:\Users\Box\Desktop\Projects\simpsons\src\views\detailScreen\DetailScreen.js">
+        <metrics statements="11" coveredstatements="9" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="2"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="19" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="41" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="simpsons.src.views.listScreen">
+      <metrics statements="9" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="1"/>
+      <file name="ListScreen.js" path="C:\Users\Box\Desktop\Projects\simpsons\src\views\listScreen\ListScreen.js">
+        <metrics statements="9" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="1"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="20" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="simpsons.src.views.listScreen.singleItem">
+      <metrics statements="9" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="4"/>
+      <file name="SingleItem.js" path="C:\Users\Box\Desktop\Projects\simpsons\src\views\listScreen\singleItem\SingleItem.js">
+        <metrics statements="9" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="4"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="14" type="stmt"/>
+        <line num="11" count="14" type="stmt"/>
+        <line num="13" count="14" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="72" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="simpsons.src.views.newScreen">
+      <metrics statements="16" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="10" coveredmethods="5"/>
+      <file name="NewScreen.js" path="C:\Users\Box\Desktop\Projects\simpsons\src\views\newScreen\NewScreen.js">
+        <metrics statements="16" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="10" coveredmethods="5"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="47" count="3" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="60" count="3" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="75" count="3" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="95" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

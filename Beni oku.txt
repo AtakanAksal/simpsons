@@ -1,0 +1,26 @@
+Daha önceden hiç unit test yazmamıştım, son ki günde anladığım kadarıyla bir şeyler denedim lakin iyi sonuçlar alamadım. 
+Asenkronlukla alakalı bir çok hata ile karşılaştım. Araştırmalarım gösterdiki; test işinin bir standartı olmadığını öğrendim.
+Değerlendirmeniz sonucunda hatalarımın neler olduğunu söylerseniz ve araştırmamı derinleştirmem gereken konu hakkında yol gösterirseniz çok sevinirim.
+
+All files                                 |   67.74 |    31.81 |      54 |   69.74 |
+ simpsons                                 |     100 |      100 |     100 |     100 |
+  App.js                                  |     100 |      100 |     100 |     100 |
+ simpsons/assets                          |     100 |      100 |     100 |     100 |
+  down-arrow.png                          |     100 |      100 |     100 |     100 |
+  trash.png                               |     100 |      100 |     100 |     100 |
+  up-arrow.png                            |     100 |      100 |     100 |     100 |
+ simpsons/src                             |     100 |      100 |     100 |     100 |
+  Main.js                                 |     100 |      100 |     100 |     100 |
+ simpsons/src/contexts                    |      68 |       25 |   56.25 |   68.75 |
+  SimpsonsContext.js                      |      68 |       25 |   56.25 |   68.75 | 43-46,57-60,69-72,79,89-93
+ simpsons/src/helpers                     |   52.38 |        0 |      40 |   57.89 |
+  connections.js                          |      50 |      100 |      50 |      50 | 12-17
+  funtions.js                             |   53.84 |        0 |   33.33 |   63.63 | 2-6,17-18
+ simpsons/src/views/detailScreen          |      75 |       50 |   66.66 |   81.81 |
+  DetailScreen.js                         |      75 |       50 |   66.66 |   81.81 | 15,27
+ simpsons/src/views/listScreen            |   55.55 |       50 |      25 |   55.55 |
+  ListScreen.js                           |   55.55 |       50 |      25 |   55.55 | 23-42
+ simpsons/src/views/listScreen/singleItem |   88.88 |      100 |      80 |   88.88 |
+  SingleItem.js                           |   88.88 |      100 |      80 |   88.88 | 18
+ simpsons/src/views/newScreen             |    62.5 |       50 |      50 |    62.5 |
+  NewScreen.js                            |    62.5 |       50 |      50 |    62.5 | 19-20,37,52,67,80
